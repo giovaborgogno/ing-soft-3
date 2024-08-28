@@ -22,34 +22,36 @@ Azure DevOps se integra fácilmente con herramientas populares como GitHub, Jenk
 ## 3. Pasos del TP
 
 ### 3.1 Crear una cuenta en Azure DevOps
+![alt text](img/image-1.png)
 
+### 3.2 Crear un proyecto Sample01
 ![alt text](img/image.png)
 
-### 3.2 Crear un repo GIT
-
-![alt text](img/image-1.png)
+### 3.3 Crear un repo GIT desde cero
 ![alt text](img/image-2.png)
 
-Otra opcion:
-
+### 3.4 Crear un proyecto Sample02
 ![alt text](img/image-3.png)
 
-### 3.3 Crear un repo TFVC
-
-Primero desde las configuraciones de la organizacion hay que setear en OFF: `Disable creation of TFVC repositories`
+### 3.5 Importar un repo desde GitHub: https://github.com/ingsoft3ucc/SimpleWebAPI.git
 ![alt text](img/image-4.png)
 ![alt text](img/image-5.png)
 
-### 3.4 Importar un repo desde GitHub
-
+### 3.6 Realizar un cambio en un archivo, y subirlo al repo de ADO.
 ![alt text](img/image-6.png)
+
+### 3.7 Crear un pipeline, solicitar acceso a jobs de paralelismo
 ![alt text](img/image-7.png)
-
-### 3.5 Clonarlo localmente
-
 ![alt text](img/image-8.png)
 
-### 3.6 Realizar un cambio en un archivo, y subirlo al repo de ADO
-
+### 3.8 Cambiar el tipo de proceso de Basic a Agile
 ![alt text](img/image-9.png)
+
+### 3.8 Crear un sprint
 ![alt text](img/image-10.png)
+
+### 3.9 Crear User Stories
+![alt text](img/image-11.png)
+
+### 3.10 Crear Tasks y Bugs
+![alt text](img/image-12.png)
