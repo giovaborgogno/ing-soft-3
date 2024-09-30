@@ -188,4 +188,4 @@ C\. Crear las pruebas unitarias necesarias en el front para validar las modifica
 
 #### 6. Subir el proyecto
 
-Link repositorio: https://github.com/felipecanias/Angular_WebAPINetCore8_CRUD_Sample
+Link repositorio: https://github.com/giovaborgogno/Angular_WebAPINetCore8_CRUD_Sample
