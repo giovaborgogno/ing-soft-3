@@ -42,7 +42,8 @@ Nos aseguramos de que tenemos configurada la aprobacion manual para pasar a prod
 
 
 Tenemos todos los servicios generados:
-![alt text](img/image.png) 
+![alt text](img/image.png)
+![alt text](img/image-13.png)
 
 - 4.2.5 Entregar un pipeline que incluya:
   - A) Etapa Construcción y Pruebas Unitarias y Code Coverage Back y Front ✅
