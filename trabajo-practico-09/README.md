@@ -37,6 +37,9 @@
 
 ![alt text](img/image-7.png)
 
+Nos aseguramos de que tenemos configurada la aprobacion manual para pasar a prod:
+![alt text](img/image-12.png)
+
 
 Tenemos todos los servicios generados:
 ![alt text](img/image.png) 
