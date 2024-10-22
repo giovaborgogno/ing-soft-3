@@ -59,3 +59,13 @@ Tenemos todos los servicios generados:
 Link al pipeline: https://dev.azure.com/giovaborgogno/_git/Angular_WebAPINetCore8_CRUD_Sample?path=/cicd.yml
 
 ![alt text](img/image-11.png)
+
+Probamos que cuando fallen los tests se detenga el pipeline pero igualmente se publiquen los resultados:
+
+![alt text](img/image-16.png)
+![alt text](img/image-14.png)
+
+Y cuando corregimos en el siguiente push se hace el despliegue correctamente:
+
+![alt text](img/image-15.png)
+(Para evitar costos adicionales cancele el job del deploy a ACI, pero ya se habia demostrado antes su correcto funcionamiento.)
